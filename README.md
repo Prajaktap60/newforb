@@ -10,10 +10,12 @@ transform raw car sales data into an interactive and visually appealing
 dashboard using Power BI, enabling stakeholders to quickly interpret key
 metrics and make data-driven decisions.
 
+
 2. Aim of the Project
 The main aim of this project is to analyze car sales in Norway and build an
 interactive Power BI dashboard that provides insights into sales performance,
 revenue, market share, and trends across different car brands and models.
+
 
 3. Objectives (Dashboard 1)
 1. To analyze the units sold for each car brand.
@@ -25,6 +27,8 @@ revenue.
 6. To analyze and display the market share percentage of different brands.
 7. To show the sales trend over time for each car model.
 8. To present all insights through a single interactive Power BI dashboard.
+
+
 
 4. Objectives (Dashboard 2)
 1. To analyze car sales performance across multiple manufacturers
@@ -135,4 +139,4 @@ dynamics, brand performance, and sales trends in Norway, enabling better
 strategic planning and decision-making.
 
 14. Screenshot
-    
+    https://github.com/Prajaktap60/newforb/blob/main/car%20sales%20analysis.png
