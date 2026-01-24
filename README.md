@@ -1,4 +1,5 @@
-Car Sales Analysis in Norway using Power BI
+
+#Car Sales Analysis in Norway using Power BI
 
 1. Problem Statement
 The automobile industry generates large volumes of sales data across multiple
@@ -10,14 +11,12 @@ transform raw car sales data into an interactive and visually appealing
 dashboard using Power BI, enabling stakeholders to quickly interpret key
 metrics and make data-driven decisions.
 
-
 2. Aim of the Project
 The main aim of this project is to analyze car sales in Norway and build an
 interactive Power BI dashboard that provides insights into sales performance,
 revenue, market share, and trends across different car brands and models.
 
-
-3. Objectives (Dashboard 1)
+3. Objectives 
 1. To analyze the units sold for each car brand.
 2. To calculate the total revenue generated for each car model.
 3. To identify the number of variants available for each car model.
@@ -28,15 +27,6 @@ revenue.
 7. To show the sales trend over time for each car model.
 8. To present all insights through a single interactive Power BI dashboard.
 
-
-
-4. Objectives (Dashboard 2)
-1. To analyze car sales performance across multiple manufacturers
-2. To identify top-selling and low-selling brands
-3. To compare pricing trends and revenue contribution
-4. To track sales trends over time
-5. To support data-driven decision-making for business and marketing
-strategies
 
 5. Dataset Description
 The dataset used in this project contains the following key fields:
@@ -52,22 +42,19 @@ The dataset used in this project contains the following key fields:
 1. Data Collection- Car sales data related to Norway was collected in
 structured format (CSV/Excel).
 2. Data Cleaning & Preparation
-o Removed duplicates
-o Handled missing values
-
-o Standardized brand and model names
-o Created calculated columns for revenue
-3. Data Modeling
-o Established relationships between tables (Brand, Model, Sales,
-Date)
-o Created necessary measures using DAX
-4. Data Analysis
-o Aggregated sales and revenue by brand and model
-o Computed market share and top-performing models
-5. Visualization- Created interactive visuals such as bar charts, pie charts,
+  Removed duplicates
+  Handled missing values
+  Standardized brand and model names
+  Created calculated columns for revenue
+4. Data Modeling-Established relationships between tables (Brand, Model, Sales,
+Date).Created necessary measures using DAX
+5. Data Analysis
+  Aggregated sales and revenue by brand and model
+ Computed market share and top-performing models
+6. Visualization- Created interactive visuals such as bar charts, pie charts,
 KPI cards, and line charts
 
-7. Implementation (Power BI Dashboard-1)
+8. Implementation (Power BI Dashboard-1)
 The following insights were implemented in the Power BI dashboard:
 1. Units Sold for Each Car Brand
 • Displayed using KPI cards and aggregated visuals
@@ -92,17 +79,6 @@ Audi, Skoda, Hyundai)
 • Line chart showing year-wise sales quantity
 • Helps identify growth and decline patterns
 
-8. Implementation (Power BI Dashboard-2)
-1. Collected and cleaned car sales data (model, make, year, quantity, price).
-2. Built the dashboard using Power BI.
-3. Created KPIs using measures for max, min, average, and totals.
-4. Used visuals such as:
-5. Cards for key metrics
-6. Donut chart for quantity by make
-7. Line chart for yearly trends
-8. Bar chart for maximum price comparison
-9. Added slicers and brand logos for interactive filtering.
-10.Designed a clean layout for easy understanding and quick insights.
 
 9. Tools & Technologies Used
 • Power BI Desktop
@@ -139,4 +115,4 @@ dynamics, brand performance, and sales trends in Norway, enabling better
 strategic planning and decision-making.
 
 14. Screenshot
-    https://github.com/Prajaktap60/newforb/blob/main/car%20sales%20analysis.png
+    !https://github.com/Prajaktap60/newforb/blob/main/car%20sales%20analysis.png
