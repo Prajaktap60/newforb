@@ -90,4 +90,4 @@ dynamics, brand performance, and sales trends in Norway, enabling better
 strategic planning and decision-making.
 
  Screenshot
-    !https://github.com/Prajaktap60/newforb/blob/main/car%20sales%20analysis.png
+<img width="1151" height="637" alt="car sales analysis" src="https://github.com/user-attachments/assets/741ba5bc-c9a1-429f-93c8-14a3d308f34d" />
